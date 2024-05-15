@@ -3,7 +3,7 @@
     --verde: #6FFF57;
     --branco: #FFFFFF;
     --botao-ativo:#3A375E;
-    --botao-inativo:rgba(58, 55, 94, 0.5);   
+    --botao-inativo:rgba(58, 55, 94, 0.5); 
 }
 
 body{
@@ -14,17 +14,16 @@ body{
 
 .conteudo-principal{
     display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
-    max-width: 1200px;
-    width: 100%;
-    margin: 0 auto;
+   flex-direction: column; 
+   justify-content: center;
+   align-items: center;
+   max-width: 1200px;
+   width: 100%;
+   margin: 0 auto;
 }
 
 .titulo-principal{
     text-align: left;
-    width: 100%;   
-    font-size: 32px;
+    width: 100%;  
+    font-size: 32px; 
 }
-
